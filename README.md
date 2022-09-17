@@ -41,12 +41,6 @@ The interface allows you to enter Customer
 
 * For Adding new Employee his/her details are going to be Enter in SignUp_Page
 ![Sign_Up](https://user-images.githubusercontent.com/112017748/190708627-d617e691-03d3-4543-be46-1fc6918d25fb.png)
-## Features
-
-- Light/dark mode toggle
-- Live previews
-- Fullscreen mode
-- Cross platform
 
 
 ## Conclusion
